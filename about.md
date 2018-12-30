@@ -4,18 +4,33 @@ title: About
 permalink: /about/
 ---
 
-Hello! I'm a 24 year old from the northern part of Sweden, currently located in Stockholm. I enjoy developing applications, learning new things and running (especially with a map in my hand).   
+Hello! I'm a 24 year old from the northern parts of Sweden, currently located in Stockholm.
+I enjoy developing applications, learning new things and running (especially with a map in my hand).   
 
-### Experience
+Currently I'm working with direct bank payments and writing code in Java at a quite small company.
+Since the company is small I get to do a lot of different stuff at work, all the way from the database to the front end, which I really enjoy.
+Before this job I was working with encoders and decoders sending audio and video over IP networks, mostly working in C/C++. 
 
-_PJ Paymenttech - Java Developer - 7 months (current position)_ 
+I have written a little python script which lists all my experience in the field.
+```python
+>>> from emil import list_experience
+>>> emil.list_experience()
+[{  
+    'position': 'Java Developer',
+    'company': 'PJ Paymenttech',
+    'time': '7 months'
+},
+{  
+    'position': 'Junior Developer',
+    'company': 'Intinor',
+    'time': '1 year'
+},
+{
+    'position': 'Student',
+    'school': 'Umeå University',
+    'time': '5 years',
+    'diploma': 'Master of Science in Engineering, Computing Science'
+}]
+```
 
-Currently I'm working with direct bank payments. 
-
-
-_Intinor - Junior Developer - 1 year_  
-At Intinor I got my first experience working as a software developer. I also attained knowledge about transmission of audio and video over IP networks. During my stay here my biggest task was to develop an ember+ interface, however some bug fixing was also part of my duties. I mainly worked in C/C++, but also got to use my knowledge in Bash and Perl. Throughout the summer I worked full time and part time during the autumn alongside my studies. When spring arrived I started writing my master thesis here.
-
-
-_Umeå University - Student - 5 years_  
-Master of Science in Engineering, Computing Science
+Feel free to contact me at any of the places at the bottom of the page.
