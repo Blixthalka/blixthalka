@@ -33,4 +33,3 @@ I have written a little python script which lists all my experience in the field
 }]
 ```
 
-Feel free to contact me at any of the places at the bottom of the page.
