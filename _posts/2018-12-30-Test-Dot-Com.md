@@ -1,18 +1,14 @@
 ---
 layout: post
-title: This is a titlez
+title: This is the first blogpost
 ---
 
+Here is some cool css.
 
-What up?
-
-```
+```css
 #button {
     border: none;
 }
 ```
 
-
-# test 121
-
-Nooo
+Well, thats it. 
