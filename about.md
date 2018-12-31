@@ -13,7 +13,6 @@ Before this job I was working with encoders and decoders sending audio and video
 
 I have written a little python script which lists all my experience in the field.
 ```python
->>> from emil import list_experience
 >>> emil.list_experience()
 [{  
     'position': 'Java Developer',
