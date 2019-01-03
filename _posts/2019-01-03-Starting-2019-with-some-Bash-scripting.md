@@ -6,7 +6,7 @@ The calendar has has incremented the year variable to 2019 and you still haven't
 But don't worry, you don't have to go to the gym. 
 Instead I propose that you switch your resolution to something else like, for instance, to streamline your workflow with Bash.
 By learing some tricks in Bash, you will become much a more efficient developer and save lots of time in the long run. 
-So, it's perfect that you have found this page, because I will show you a trick to access logfiles and maybe it will give you some inspiration to write one on your own. 
+So, it's perfect that you have found this page, because I will show you a trick to access logfiles and hopefully it will give you some inspiration to write a script on your own. 
 
 Accessing logs may be tideous.
 First they may be located at far into the system, like  `/var/logs/program`.
