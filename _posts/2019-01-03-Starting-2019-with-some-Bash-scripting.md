@@ -10,10 +10,10 @@ So, it's perfect that you have found this page, because I will show you a trick 
 
 Accessing logs may be tideous.
 First they may be located at far into the system, like  `/var/logs/program`.
-You don't want to type in this every time you want to access the logs (yes, we have autocomplete, but that is a little bit to much work still). 
-Secondly, there may be multiple different applications that you want to check the logs for.
-Lets say you have logs names like `app1.log`, `app2.log` and `app3.log`, all located at the same place.
-The last thing may be that the logs are dated and a new log is created for each day, you don't want to remeber what day it is today to access todays log. 
+We don't want to type in this every time we want to access the logs (yes, we have autocomplete, but that is a little bit to much work still). 
+Secondly, there may be multiple different applications that we want to check the logs for.
+Lets say we have logs names like `app1.log`, `app2.log` and `app3.log`, all located at the same place.
+The last thing may be that the logs are dated and a new log is created for each day, we don't want to remeber what day it is today to access todays log. 
 It may look like this `/var/logs/program/app1_2019-01-03.log`. 
 
 To access todays log efficiently, we will create a bash function that we will put in `~/.bashrc` which will then be accessable in the shell.
@@ -25,7 +25,7 @@ logf () {
 }
 ```
 
-This will let you access todays logs of one specific app with `logf app1`. 
+This will let us access todays logs of one specific app with `logf app-name`. 
 Easy, right?
 But how does this little function achieve this?
 `tail` is a program that outputs the end of a file, passing the flags `-300f` will show the last 300 lines and wait for more input and output the new input if it comes.
