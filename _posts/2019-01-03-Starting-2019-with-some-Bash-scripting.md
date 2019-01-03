@@ -37,3 +37,4 @@ And we have our little efficient function here, which will maybe save us 5 secon
 It is not much, but if we add other small efficient functions like this, it will eventually start to add up to substantial amount of time.
 
 Over and out.
+//Emil
