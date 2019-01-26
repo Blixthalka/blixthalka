@@ -7,5 +7,5 @@ I thought this was really cool, so I figured I try on my own.
 So I immediately downloaded all my runs and rides from Strava and made my own visualizations.
 Here are the results. 
 
-![Alt text](images/running_visual/gammlia_close.png "Optional title attribute")
+![Alt text](/images/running_visual/gammlia_close.png "Optional title attribute")
 
