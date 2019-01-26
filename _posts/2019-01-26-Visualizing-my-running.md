@@ -7,5 +7,11 @@ I thought this was really cool, so I figured I try on my own.
 Thus, I immediately downloaded all my runs and rides from Strava and made my own visualizations.
 Here are the results. 
 
-![Alt text](/images/running_visual/gammlia_close.png "Optional title attribute")
+![img](/images/running_visual/umeå_high.png)
+![img](/images/running_visual/umeå_close.png)
+![img](/images/running_visual/sandåkern.png)
+![img](/images/running_visual/gammlia_close.png)
+![img](/images/running_visual/sävar.png)
+![img](/images/running_visual/ålidhem.png)
+![img](/images/running_visual/täby.png)
 
