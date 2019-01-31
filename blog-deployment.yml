@@ -1,0 +1,22 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  labels:
+    app: blixthalka-tech      
+  name: blixthalka-tech
+spec:
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: blixthalka-tech
+      name: blixthalka-tech
+    spec:
+      containers:
+      - env:
+        image: blixthalka/blixthalka-tech:latest
+        imagePullPolicy: Always
+        name: blixthalka-tech-site
+        ports:
+        - containerPort: 80
+
