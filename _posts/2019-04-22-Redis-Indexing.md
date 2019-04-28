@@ -4,8 +4,7 @@ title: Creating An Index In Redis
 ---
 Redis is an in-memory key/value database, it does not have any natural indexing capabilities.
 Without an index a search on anything different than the key will be an expensive operation,
-since all elements needs to be fetched and then filtered in the application code.  
-However it is possible to create an index with some tricks.
+since all elements needs to be fetched and then filtered in the application code. However it is possible to create an index with some tricks.
 
 Let's get started! First of we'll need some ordinary key/value pairs in Redis.
 
