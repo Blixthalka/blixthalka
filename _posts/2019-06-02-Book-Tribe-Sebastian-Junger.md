@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book: Tribe - Sebastian Junger
+title: Tribe by Sebastian Junger
 ---
 This book is about belonging in a society and how our modern society does not meet the fundamental needs of a human being. 
 We are cramped in our apartments, living alone or with your family.
